@@ -1,6 +1,6 @@
 import React from "react";
 import DeleteIcon from '@material-ui/icons/Delete';
-import AddCircleIcon from '@material-ui/icons/AddCircle';
+
 
 
 function Note(props) {
